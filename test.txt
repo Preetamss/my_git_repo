@@ -1,7 +1,1 @@
-This is test file.
-This is a new line.
-No matter what
-Good day
-===================
-###################
-aaaaaaaaaaaaaaaaaaa
+This is line number 1.
