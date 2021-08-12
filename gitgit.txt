@@ -1,3 +1,0 @@
-This is jenkins class.
-Welcome to the class.
-This is git class.
