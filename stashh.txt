@@ -1,1 +1,2 @@
-This is old line.
+This is old line
+This is new line.
